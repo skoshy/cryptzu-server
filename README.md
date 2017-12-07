@@ -1,0 +1,1 @@
+Please copy config.default.json and rename as config.json and input your credentials.

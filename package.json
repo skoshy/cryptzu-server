@@ -1,0 +1,14 @@
+{
+  "name": "cryptorganize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gdax": "^0.4.2"
+  }
+}

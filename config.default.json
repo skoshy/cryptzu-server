@@ -1,0 +1,9 @@
+{
+	"sync": {
+		"gdax": {
+			"key": "",
+			"b64secret": "",
+			"passphrase": ""
+		}
+	}
+}
