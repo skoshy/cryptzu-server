@@ -2,6 +2,9 @@
 const Gdax = require('gdax');
 const config = require('./config.json');
 
+var sqlite3 = require('sqlite3').verbose();
+var db = new sqlite3.Database('./db.sqlite3');
+
 const key = config.sync.gdax.key;
 const b64secret = config.sync.gdax.b64secret;
 const passphrase = config.sync.gdax.passphrase;
